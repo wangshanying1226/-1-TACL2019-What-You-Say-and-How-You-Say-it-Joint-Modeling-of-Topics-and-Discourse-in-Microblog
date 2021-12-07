@@ -1,6 +1,3 @@
- <script <script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
 # **(TACL2019)What You Say and How You Say it: Joint Modeling of Topics and Discourse in Microblog Conversations**
 *Jichuan Zeng∗, Jing Li∗, Yulan He, Cuiyun Gao, Michael R. Lyu, Irwin King*
 # 你说什么以及你怎么说：在微博对话中联合建模主题词和话语词
